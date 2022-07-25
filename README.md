@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kiranparhar
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Selenium with Python
+- 👀 I’m interested in IT Support
+- 🌱 I’m currently Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on kiranparhar01@gmail.com
 
