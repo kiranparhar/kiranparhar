@@ -9,6 +9,9 @@
 <h2>👨‍💻 Certifications:</h2>
 
 - <b>[Introduction to CISSP Security Assessment & Testing and Security Operations](https://simpli-web.app.link/e/aJWtTTtMQsb)</b>
+- <b>[Intro to Splunk (eLearning)](https://education.splunk.com/award/completion/668dfaca-cbf1-32d8-82ad-18050c8cfbf4)</b>
+- <b>[Introduction to Kubernetes](https://simpli-web.app.link/e/A9WzHcQyNsb)</b>
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Kirandeep   | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
